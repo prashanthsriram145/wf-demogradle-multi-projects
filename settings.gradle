@@ -1,0 +1,2 @@
+rootProject.name = 'wf-demogradle-multi-projects'
+include 'web', 'service', 'repository'
